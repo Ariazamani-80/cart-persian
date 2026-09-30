@@ -3,14 +3,14 @@
 @font-face {
   font-family: "IranYekan";
   src:
-    url("/fonts/iranyekanwebregularfanum.woff2") format("woff2"),
-    url("/fonts/iranyekanwebregularfanum.woff") format("woff");
+    url("/src/assets/fonts/iranyekanwebregularfanum.woff2") format("woff2"),
+    url("/src/assets/fonts/iranyekanwebregularfanum.woff") format("woff");
   font-weight: 400;
 }
 
 
 @theme {
-  --font-iranyekan: "IranYekan", sans-serif;
+  --font-iranyekan: "Iranyekan", sans-serif;
 }
 
 
